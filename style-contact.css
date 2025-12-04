@@ -1,0 +1,33 @@
+body{
+    background-image:url('img/fond.jpg');
+}
+
+h1{
+    color:#FF1654;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    background-color:white;
+    background-position: center;
+    width: 80%;
+    color:#000000;
+
+}
+
+section{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+
+    }
+
+    .message{
+ 
+    }
